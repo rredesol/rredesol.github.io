@@ -22,9 +22,14 @@ title{
 	background-color:#ede7e6;
 }
 body{
-	padding-left:50px;
+	padding-left:10px;
 	text-align:center;
 	width:400px;
 	border-width:4px;
 	background-color:ede7e6;
 	}
+a {
+  color: blue;
+  text-decoration: underline;
+}
+
